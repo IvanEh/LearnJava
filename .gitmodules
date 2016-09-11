@@ -10,3 +10,6 @@
 [submodule "learnJSF"]
 	path = learnJSF
 	url = https://github.com/IvanEh/LearnJSF
+[submodule "learnSpringSecurity"]
+	path = learnSpringSecurity
+	url = https://github.com/IvanEh/LearnSpringSecurity
