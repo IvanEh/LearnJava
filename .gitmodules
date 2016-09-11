@@ -1,3 +1,6 @@
 [submodule "learnSpringMVC"]
 	path = learnSpringMVC
 	url = https://github.com/IvanEh/LearnSpringMVC
+[submodule "learnJdbc"]
+	path = learnJdbc
+	url = https://github.com/IvanEh/LearnJdbc
