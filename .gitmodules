@@ -1,0 +1,3 @@
+[submodule "learnSpringMVC"]
+	path = learnSpringMVC
+	url = https://github.com/IvanEh/LearnSpringMVC
